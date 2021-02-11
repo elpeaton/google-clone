@@ -1,0 +1,11 @@
+@media (max-width: 380px) {
+  .search-input {
+    min-width: 100%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .about {
+    justify-content: space-between;
+  }
+}
